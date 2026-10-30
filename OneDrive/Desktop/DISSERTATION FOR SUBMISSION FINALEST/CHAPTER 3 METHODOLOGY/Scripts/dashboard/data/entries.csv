@@ -1,0 +1,35 @@
+id,district,year,facility,source,first_time,count,added
+s000,Buhera,2018,Fistula Foundation repair camp logs,Repair camp,Yes,8,2026-10-13
+s001,Buhera,2019,Fistula Foundation repair camp logs,Repair camp,Yes,12,2026-10-13
+s002,Buhera,2021,Fistula Foundation repair camp logs,Repair camp,Yes,3,2026-10-13
+s003,Buhera,2022,Fistula Foundation repair camp logs,Repair camp,Yes,7,2026-10-13
+s004,Buhera,2023,Fistula Foundation repair camp logs,Repair camp,Yes,6,2026-10-13
+s005,Chimanimani,2018,Fistula Foundation repair camp logs,Repair camp,Yes,2,2026-10-13
+s006,Chimanimani,2019,Fistula Foundation repair camp logs,Repair camp,Yes,3,2026-10-13
+s007,Chimanimani,2021,Fistula Foundation repair camp logs,Repair camp,Yes,1,2026-10-13
+s008,Chimanimani,2022,Fistula Foundation repair camp logs,Repair camp,Yes,14,2026-10-13
+s009,Chimanimani,2023,Fistula Foundation repair camp logs,Repair camp,Yes,6,2026-10-13
+s010,Chipinge,2018,Fistula Foundation repair camp logs,Repair camp,Yes,39,2026-10-13
+s011,Chipinge,2019,Fistula Foundation repair camp logs,Repair camp,Yes,15,2026-10-13
+s012,Chipinge,2021,Fistula Foundation repair camp logs,Repair camp,Yes,2,2026-10-13
+s013,Chipinge,2022,Fistula Foundation repair camp logs,Repair camp,Yes,13,2026-10-13
+s014,Chipinge,2023,Fistula Foundation repair camp logs,Repair camp,Yes,3,2026-10-13
+s015,Makoni,2018,Fistula Foundation repair camp logs,Repair camp,Yes,1,2026-10-13
+s016,Makoni,2019,Fistula Foundation repair camp logs,Repair camp,Yes,6,2026-10-13
+s017,Makoni,2021,Fistula Foundation repair camp logs,Repair camp,Yes,1,2026-10-13
+s018,Makoni,2022,Fistula Foundation repair camp logs,Repair camp,Yes,3,2026-10-13
+s019,Makoni,2023,Fistula Foundation repair camp logs,Repair camp,Yes,3,2026-10-13
+s020,Mutare,2018,Fistula Foundation repair camp logs,Repair camp,Yes,10,2026-10-13
+s021,Mutare,2019,Fistula Foundation repair camp logs,Repair camp,Yes,23,2026-10-13
+s022,Mutare,2020,Fistula Foundation repair camp logs,Repair camp,Yes,1,2026-10-13
+s023,Mutare,2021,Fistula Foundation repair camp logs,Repair camp,Yes,2,2026-10-13
+s024,Mutare,2022,Fistula Foundation repair camp logs,Repair camp,Yes,12,2026-10-13
+s025,Mutare,2023,Fistula Foundation repair camp logs,Repair camp,Yes,12,2026-10-13
+s026,Mutasa,2018,Fistula Foundation repair camp logs,Repair camp,Yes,7,2026-10-13
+s027,Mutasa,2022,Fistula Foundation repair camp logs,Repair camp,Yes,2,2026-10-13
+s028,Nyanga,2018,Fistula Foundation repair camp logs,Repair camp,Yes,7,2026-10-13
+s029,Nyanga,2019,Fistula Foundation repair camp logs,Repair camp,Yes,3,2026-10-13
+s030,Nyanga,2022,Fistula Foundation repair camp logs,Repair camp,Yes,3,2026-10-13
+d002,Buhera,2024,,Repair camp,Yes,1,2026-10-26
+d003,Mutare,2024,,Repair camp,Yes,5,2026-10-26
+d004,Mutare,2024,,Repair camp,Yes,5,2026-10-26
